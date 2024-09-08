@@ -1,0 +1,5 @@
+train: /content/facemask_yolo_dataset_split/train  # path to the train folder
+val: /content/facemask_yolo_dataset_split/valid  # path to the valid folder
+
+nc: 2
+names: ['no-mask', 'mask']
